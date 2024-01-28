@@ -12,13 +12,9 @@ Welcome to my GitHub profile! I'm passionate about Natural Language Processing (
 ## 💼 What I Do
 
 🔬 Conduct cutting-edge research in NLP to solve real-world problems.
-
 💻 Develop robust and scalable web applications using the MERN stack.
-
 ☁️ Harness the power of AWS to create cloud-native solutions.
-
 📊 Create stunning data visualizations and dashboards with Tableau.
-
 🔍 Master the art of SQL for efficient data management.
 
 

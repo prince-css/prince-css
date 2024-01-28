@@ -11,16 +11,16 @@ Welcome to my GitHub profile! I'm passionate about Natural Language Processing (
 
 ## 💼 What I Do
 
-- Conduct cutting-edge research in NLP to solve real-world problems.
-- Develop robust and scalable web applications using the MERN stack.
-- Harness the power of AWS to create cloud-native solutions.
-- Create stunning data visualizations and dashboards with Tableau.
-- Master the art of SQL for efficient data management.
+🔬 Conduct cutting-edge research in NLP to solve real-world problems.
+💻 Develop robust and scalable web applications using the MERN stack.
+☁️ Harness the power of AWS to create cloud-native solutions.
+📊 Create stunning data visualizations and dashboards with Tableau.
+🔍 Master the art of SQL for efficient data management.
 
 ## 📫 Let's Connect
 
-- LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/r-i-prince)
-- Portfolio: [My Portfolio Website](https://sites.google.com/view/mdprinceportfolio?usp=sharing)
-- Email: rakibulislamprince10@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-blue)](https://linkedin.com/in/r-i-prince)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-yellow)](https://sites.google.com/view/mdprinceportfolio?usp=sharing)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:rakibulislamprince10@gmail.com)
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or to discuss exciting projects. Let's innovate and make a difference together! 🌟

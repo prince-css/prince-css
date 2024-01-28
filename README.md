@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm passionate about Natural Language Processing (
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-blue)](https://linkedin.com/in/r-i-prince)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-yellow)](https://sites.google.com/view/mdprinceportfolio?usp=sharing)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:rakibulislamprince10@gmail.com)
+- [View My LinkedIn Profile](https://linkedin.com/in/r-i-prince)
+- [View My Portfolio Website](https://sites.google.com/view/mdprinceportfolio?usp=sharing)
+- [Send Me an Email](your.email@example.com)
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or to discuss exciting projects. Let's innovate and make a difference together! 🌟

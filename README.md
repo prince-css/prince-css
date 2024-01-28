@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm passionate about Natural Language Processing (
 
 ## 📫 Let's Connect
 
-- LinkedIn: ![My LinkedIn Profile](https://linkedin.com/in/r-i-prince)
-- Portfolio: ![My Portfolio Website](https://sites.google.com/view/mdprinceportfolio?usp=sharing)
+- LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/r-i-prince)
+- Portfolio: [My Portfolio Website](https://sites.google.com/view/mdprinceportfolio?usp=sharing)
 - Email: rakibulislamprince10@gmail.com
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or to discuss exciting projects. Let's innovate and make a difference together! 🌟

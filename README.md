@@ -1,7 +1,7 @@
 # 👋 Hello there! I'm Prince
 
 ![NLP Researcher](https://img.shields.io/badge/NLP%20Researcher-Expert-brightgreen)
-![MERN Stack Developer](https://img.shields.io/badge/MERN%20Developer-Proficient-yellow)
+![MERN Stack Developer](https://img.shields.io/badge/MERN%20Stack%20Developer-Proficient-yellow)
 ![AWS Practitioner](https://img.shields.io/badge/AWS%20Practitioner-Certified-orange)
 ![Tableau Expert](https://img.shields.io/badge/Tableau%20Expert-Advanced-purple)
 ![SQL Expert](https://img.shields.io/badge/SQL%20Expert-Advanced-red)

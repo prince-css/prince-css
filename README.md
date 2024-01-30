@@ -7,7 +7,7 @@
 ![SQL Expert](https://img.shields.io/badge/SQL%20Expert-Advanced-red)
 
 
-Welcome to my GitHub profile! I'm passionate about Natural Language Processing (NLP) research and have a diverse skill set that includes full-stack development, AWS cloud computing, Tableau visualization, SQL, and MERN stack development.
+Welcome to my GitHub profile! I'm passionate about AI and Natural Language Processing (NLP) research and have a diverse skill set that includes full-stack development, AWS cloud computing, Tableau visualization, SQL, and MERN stack development.
 
 ## 💼 What I Do
 
